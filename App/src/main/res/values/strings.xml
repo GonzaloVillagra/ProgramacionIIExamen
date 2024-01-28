@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExamenApp</string>
+    <string name="formato_fecha_erroneo" />
+    <string name="campos_vacios" />
+    <string name="tipo_no_seleccionado" />
+    <string name="formato_erroneo" />
+</resources>
